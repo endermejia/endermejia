@@ -1,5 +1,7 @@
 # Gabriel Mejía
+
 ### Frontend Developer 🐱‍👤
+
 - 👋 Hi, I’m Gabriel Mejía Melgarejo
 - 💖 I’m a fanatic climber and a try of programmer
 - 🧠 I’m currently learning Kotlin and perfecting my frontend skills with Angular framework
@@ -19,12 +21,14 @@
      ![Sass][sass-shield]
      ![Bootstrap][bootstrap-shield]
      ![Git][git-shield]      
-     
+
 ##
+<img src="https://media-exp2.licdn.com/dms/image/C4E16AQHP_sjSh9LNQg/profile-displaybackgroundimage-shrink_200_800/0/1654200134454?e=1659571200&v=beta&t=TL2C5KsjUuHhQdj8ubgX1CqnRlYb03mt0SKVcyyb1BI" alt=""/>
 
 ![GitHub stats][github-stats]
 
 ![GitHub langs][github-langs]
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->

@@ -44,5 +44,5 @@
 [sass-shield]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
 [bootstrap-shield]: https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white
 [git-shield]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[github-stats]: https://github-readme-stats.vercel.app/api?username=endermejia&show_icons=true&include_all_commits=true&hide=contribs,prs&cache_seconds=86400
+[github-stats]: https://github-readme-stats.vercel.app/api?username=endermejia&show_icons=true&include_all_commits=true&hide=contribs,prs
 [github-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=endermejia&layout=compact

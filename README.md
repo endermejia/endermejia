@@ -1,5 +1,5 @@
 # Gabriel Mejía
-## Frontend Developer
+### Frontend Developer 🐱‍👤
 - 👋 Hi, I’m Gabriel Mejía Melgarejo
 - 💖 I’m a fanatic climber and a try of programmer
 - 🧠 I’m currently learning Kotlin and perfecting my frontend skills with Angular framework
@@ -18,15 +18,13 @@
      ![CSS3][css-shield]
      ![Sass][sass-shield]
      ![Bootstrap][bootstrap-shield]
-     ![Git][git-shield] 
+     ![Git][git-shield]      
+     
+##
 
-## Contributions
+![GitHub stats][github-stats]
 
-<img src="https://github-readme-stats.vercel.app/api?username=endermejia&show_icons=true&count_private=true&title_color=b794f4&text_color=ffffff&icon_color=ffffff&bg_color=1a202c&include_all_commits=true" alt="Contributions" />
-
-## Most used languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endermejia&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
+![GitHub langs][github-langs]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -46,3 +44,5 @@
 [sass-shield]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
 [bootstrap-shield]: https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white
 [git-shield]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[github-stats]: https://github-readme-stats.vercel.app/api?username=endermejia&show_icons=true&include_all_commits=true&hide=contribs,prs&cache_seconds=86400
+[github-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=endermejia&layout=compact

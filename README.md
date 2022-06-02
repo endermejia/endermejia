@@ -1,5 +1,5 @@
 # Gabriel Mejía
-### Frontend Developer
+## Frontend Developer
 - 👋 Hi, I’m Gabriel Mejía Melgarejo
 - 💖 I’m a fanatic climber and a try of programmer
 - 🧠 I’m currently learning Kotlin and perfecting my frontend skills with Angular framework
@@ -20,6 +20,14 @@
      ![Bootstrap][bootstrap-shield]
      ![Git][git-shield] 
 
+## Contributions
+
+<img src="https://github-readme-stats.vercel.app/api?username=endermejia&show_icons=true&count_private=true&title_color=b794f4&text_color=ffffff&icon_color=ffffff&bg_color=1a202c&include_all_commits=true" alt="Contributions" />
+
+## Most used languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endermejia&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -27,7 +35,7 @@
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/endermejia
 [github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
-[github-url]: https://github.com/endermejia/endermejia
+[github-url]: https://github.com/endermejia
 [instagram-shield]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/gabri.mejia
 [angular-shield]: https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white

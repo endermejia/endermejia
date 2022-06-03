@@ -2,28 +2,32 @@
 
 ### Frontend Developer 🐱‍👤
 
-- 👋 Hi, I’m Gabriel Mejía Melgarejo
-- 💖 I’m a fanatic climber and a try of programmer
-- 🧠 I’m currently learning Kotlin and perfecting my frontend skills with Angular framework
-- 📫 How to reach me:
+👋 Hi, I’m Gabriel Mejía Melgarejo
 
-  [![LinkedIn][linkedin-shield]][linkedin-url]
-  [![GitHub][github-shield]][github-url]
-  [![Instagram][instagram-shield]][instagram-url]
+💖 I’m a fanatic climber and a try of programmer
+
+![Imagen][image]
+
+🧠 I’m currently learning Kotlin and perfecting my frontend skills with Angular framework
+
+### 📫 How to reach me:
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub][github-shield]][github-url]
+[![Instagram][instagram-shield]][instagram-url]
   
- - ✨ Skills:
+### ✨ Skills:
  
-     ![Angular][angular-shield]
-     ![TypeScript][typescript-shield]
-     ![JavaScript][javascript-shield]
-     ![HTML5][html-shield]
-     ![CSS3][css-shield]
-     ![Sass][sass-shield]
-     ![Bootstrap][bootstrap-shield]
-     ![Git][git-shield]      
-
-##
-<img src="https://media-exp2.licdn.com/dms/image/C4E16AQHP_sjSh9LNQg/profile-displaybackgroundimage-shrink_200_800/0/1654200134454?e=1659571200&v=beta&t=TL2C5KsjUuHhQdj8ubgX1CqnRlYb03mt0SKVcyyb1BI" alt=""/>
+![Angular][angular-shield]
+![TypeScript][typescript-shield]
+![JavaScript][javascript-shield]
+![HTML5][html-shield]
+![CSS3][css-shield]
+![Sass][sass-shield]
+![Bootstrap][bootstrap-shield]
+![Git][git-shield]      
+ 
+### ☕ Activity
 
 ![GitHub stats][github-stats]
 
@@ -50,3 +54,4 @@
 [git-shield]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [github-stats]: https://github-readme-stats.vercel.app/api?username=endermejia&show_icons=true&include_all_commits=true&hide=contribs,prs
 [github-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=endermejia&layout=compact
+[image]: https://media-exp2.licdn.com/dms/image/C4E16AQHP_sjSh9LNQg/profile-displaybackgroundimage-shrink_200_800/0/1654200134454?e=1659571200&v=beta&t=TL2C5KsjUuHhQdj8ubgX1CqnRlYb03mt0SKVcyyb1BI

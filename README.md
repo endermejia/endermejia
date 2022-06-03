@@ -10,13 +10,17 @@
 
 🧠 I’m currently learning Kotlin and perfecting my frontend skills with Angular framework
 
-### 📫 How to reach me:
+##
+
+### 📫 How to reach me
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
 [![Instagram][instagram-shield]][instagram-url]
-  
-### ✨ Skills:
+
+##
+
+### ✨ Skills
  
 ![Angular][angular-shield]
 ![TypeScript][typescript-shield]
@@ -26,7 +30,9 @@
 ![Sass][sass-shield]
 ![Bootstrap][bootstrap-shield]
 ![Git][git-shield]      
- 
+
+##
+
 ### ☕ Activity
 
 ![GitHub stats][github-stats]

@@ -1,12 +1,12 @@
 # Gabriel Mejía
 
-### Frontend Developer 🐱‍👤
+### Senior Frontend Developer 🐱‍👤
 
 👋 Hi, I’m Gabriel Mejía Melgarejo
 
-💖 I’m a fanatic climber and a motivated programmer
+💖 I’m a fanatic climber and a good and motivated programmer.
 
-🧠 I’m currently learning Kotlin and perfecting my frontend skills with Angular framework
+🧠 I’m a Frontend Developer with more than 3 years of experience in Angular and Typescript.
 
 ##
 

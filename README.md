@@ -1,6 +1,6 @@
 # Gabriel Mejía
 
-### Senior Frontend Developer 🐱‍👤
+### Senior Frontend Developer 🧙‍♂️
 
 👋 Hi, I’m Gabriel Mejía Melgarejo
 

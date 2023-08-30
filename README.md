@@ -2,11 +2,17 @@
 
 ### Senior Frontend Developer 🧙‍♂️
 
-👋 Hi, I’m Gabriel Mejía Melgarejo
+Hi, I'm Gabriel Mejía 👋
 
-💖 I’m a fanatic climber and a good and motivated programmer.
+I'm a Senior FrontEnd Developer.
 
-🧠 I’m a Frontend Developer with more than 3 years of experience in Angular and Typescript.
+More than 3 years of experience in Angular and Typescript.
+
+Working at RICOH for the Public Administration.
+
+I’m a good and motivated programmer 👨‍💻 ...
+
+... and a passionate climber 🧗‍♂️.
 
 ##
 
@@ -33,8 +39,6 @@
 
 ### ☕ Activity
 
-![GitHub stats][github-stats]
-
 ![GitHub langs][github-langs]
 
 
@@ -57,5 +61,4 @@
 [sass-shield]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
 [bootstrap-shield]: https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white
 [git-shield]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[github-stats]: https://github-readme-stats.vercel.app/api?username=endermejia&show_icons=true&include_all_commits=true&hide=contribs,prs
 [github-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=endermejia&layout=compact

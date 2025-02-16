@@ -6,7 +6,7 @@ Hi, I'm Gabriel Mejía 👋
 
 I'm a Senior FrontEnd Developer.
 
-In love with Angular and Typescript since 2019.
+In love with Angular and TypeScript since 2019.
 
 I’m a good and motivated programmer 👨‍💻 ...
 

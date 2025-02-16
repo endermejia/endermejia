@@ -6,7 +6,7 @@ Hi, I'm Gabriel Mejía 👋
 
 I'm a Senior FrontEnd Developer.
 
-More than 3 years of experience in Angular and Typescript.
+In love with Angular and Typescript since 2019.
 
 Working at RICOH for the Public Administration.
 

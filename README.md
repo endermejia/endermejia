@@ -8,8 +8,6 @@ I'm a Senior FrontEnd Developer.
 
 In love with Angular and Typescript since 2019.
 
-Working at RICOH for the Public Administration.
-
 I’m a good and motivated programmer 👨‍💻 ...
 
 ... and a passionate climber 🧗‍♂️.

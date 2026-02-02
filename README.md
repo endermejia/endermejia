@@ -33,13 +33,6 @@ I’m a good and motivated programmer 👨‍💻 ...
 ![Bootstrap][bootstrap-shield]
 ![Git][git-shield]      
 
-##
-
-### ☕ Activity
-
-![GitHub langs][github-langs]
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -59,4 +52,3 @@ I’m a good and motivated programmer 👨‍💻 ...
 [sass-shield]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
 [bootstrap-shield]: https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white
 [git-shield]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[github-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=endermejia&layout=compact

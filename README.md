@@ -16,15 +16,6 @@ I’m a good and motivated programmer 👨‍💻 ...
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=endermejia&show_icons=true&theme=radical" alt="Gabriel's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endermejia&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 ### ✨ Skills
 
 ![Angular][angular-shield]

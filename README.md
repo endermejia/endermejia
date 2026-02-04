@@ -1,3 +1,5 @@
+<div align="center">
+
 # Gabriel Mejía
 
 ### Senior Frontend Developer 🧙‍♂️
@@ -12,18 +14,19 @@ I’m a good and motivated programmer 👨‍💻 ...
 
 ... and a passionate climber 🧗‍♂️.
 
-##
+---
 
-### 📫 How to reach me
+### 📊 GitHub Stats
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![GitHub][github-shield]][github-url]
-[![Instagram][instagram-shield]][instagram-url]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=endermejia&show_icons=true&theme=radical" alt="Gabriel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endermejia&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
-##
+---
 
 ### ✨ Skills
- 
+
 ![Angular][angular-shield]
 ![TypeScript][typescript-shield]
 ![JavaScript][javascript-shield]
@@ -31,8 +34,17 @@ I’m a good and motivated programmer 👨‍💻 ...
 ![CSS3][css-shield]
 ![Sass][sass-shield]
 ![Bootstrap][bootstrap-shield]
-![Git][git-shield]      
+![Git][git-shield]
 
+---
+
+### 📫 How to reach me
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub][github-shield]][github-url]
+[![Instagram][instagram-shield]][instagram-url]
+
+</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

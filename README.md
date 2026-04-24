@@ -42,7 +42,7 @@ I’m a good and motivated programmer 👨‍💻 ...
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/endermejia
+[linkedin-url]: https://www.linkedin.com/in/gabrimejia/
 [github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 [github-url]: https://github.com/endermejia
 [instagram-shield]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
